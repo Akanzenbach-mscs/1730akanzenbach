@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{48B5FBE5-F453-427E-8C57-F85FA37862D9}</ProjectGuid>
+    <ProjectGuid>{6562C47A-E970-4A15-B0D2-EC0BFB97742B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>_1730akanzenbach</RootNamespace>
     <AssemblyName>1730akanzenbach</AssemblyName>
@@ -46,14 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="frmInvoiceTotal.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="frmInvoiceTotal.Designer.cs">
+      <DependentUpon>frmInvoiceTotal.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmInvoiceTotal.resx">
+      <DependentUpon>frmInvoiceTotal.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

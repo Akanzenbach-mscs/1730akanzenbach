@@ -1,0 +1,10 @@
+C:\Users\Alex Kanzenbach\Documents\.vs\1730akanzenbach\1730akanzenbach\1730akanzenbach\bin\Debug\1730akanzenbach.exe.config
+C:\Users\Alex Kanzenbach\Documents\.vs\1730akanzenbach\1730akanzenbach\1730akanzenbach\bin\Debug\1730akanzenbach.exe
+C:\Users\Alex Kanzenbach\Documents\.vs\1730akanzenbach\1730akanzenbach\1730akanzenbach\bin\Debug\1730akanzenbach.pdb
+C:\Users\Alex Kanzenbach\Documents\.vs\1730akanzenbach\1730akanzenbach\1730akanzenbach\obj\Debug\1730akanzenbach.csprojAssemblyReference.cache
+C:\Users\Alex Kanzenbach\Documents\.vs\1730akanzenbach\1730akanzenbach\1730akanzenbach\obj\Debug\_1730akanzenbach.Properties.Resources.resources
+C:\Users\Alex Kanzenbach\Documents\.vs\1730akanzenbach\1730akanzenbach\1730akanzenbach\obj\Debug\1730akanzenbach.csproj.GenerateResource.cache
+C:\Users\Alex Kanzenbach\Documents\.vs\1730akanzenbach\1730akanzenbach\1730akanzenbach\obj\Debug\1730akanzenbach.csproj.CoreCompileInputs.cache
+C:\Users\Alex Kanzenbach\Documents\.vs\1730akanzenbach\1730akanzenbach\1730akanzenbach\obj\Debug\1730akanzenbach.exe
+C:\Users\Alex Kanzenbach\Documents\.vs\1730akanzenbach\1730akanzenbach\1730akanzenbach\obj\Debug\1730akanzenbach.pdb
+C:\Users\Alex Kanzenbach\Documents\.vs\1730akanzenbach\1730akanzenbach\1730akanzenbach\obj\Debug\_1730akanzenbach.akanzenbach1b1.resources
